@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestMAD01</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name = "SID">Enter Student ID</string>
+    <string name = "name">Enter Student Name</string>
+    <string name = "age">Enter Age</string>
+    <string name = "faculty">Enter the faculty</string>
+    <string name = "Year">Enter Academic year</string>
+    <string name = "sem">Enter semester</string>
+    <string name = "gpa">Enter current GPA</string>
+</resources>
